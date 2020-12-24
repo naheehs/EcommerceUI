@@ -1,9 +1,9 @@
-# Echttps://user-images.githubusercontent.com/76571348/103107437-919f8780-463e-11eb-9a20-cdbf81872752.pnommerce UI Template
+# Ecommerce UI Template
 
 ## Screenshots
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/76571348/103107437-919f8780-463e-11eb-9a20-cdbf81872752.png" width="300">&nbsp;
-    <img src="https://user-images.githubusercontent.com/76571348/103107439-95330e80-463e-11eb-9478-748644ed728a.png" width="300">&nbsp;
+    <img src="https://user-images.githubusercontent.com/76571348/103107437-919f8780-463e-11eb-9a20-cdbf81872752.png" width="400">&nbsp;
+    <img src="https://user-images.githubusercontent.com/76571348/103107439-95330e80-463e-11eb-9478-748644ed728a.png" width="400">&nbsp;
 </p>
 
 
