@@ -77,7 +77,7 @@ struct UserView: View {
             Text("Hello,")
                 .font(.system(size: 28))
             
-            Text("Nanas")
+            Text("Jeans")
                 .font(.system(size: 28, weight: .bold))
         }
     }
