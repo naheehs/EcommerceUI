@@ -1,1 +1,1 @@
-# EcommerceUI
+# Ecommerce UI Template
