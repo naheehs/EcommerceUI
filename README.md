@@ -1,4 +1,4 @@
-# Echttps://user-images.githubusercontent.com/76571348/103107437-919f8780-463e-11eb-9a20-cdbf81872752.pnommerce UI Template
+# Ecommerce UI Template
 
 ## Screenshots
 
